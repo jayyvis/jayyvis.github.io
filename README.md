@@ -4,6 +4,6 @@ I’m a programmer focused on establishing a fast and reliable platform to deplo
 
 **#CLOUD #DEVOPS #CICD #SRE #PLATFORM #DEVEX**
 
-I'm curious with GenAI for a while now and after watching [DHH's keynote on Rails 8](https://www.youtube.com/watch?v=-cEn_83zRFw) , I couldn't resist my temptation to build something with Ruby on Rails. Hence, learning Rails 8 to productionize AI enabled web app.
+I'm curious with GenAI for a while now and got curious with Rails after listening to DHH ([this](https://www.youtube.com/watch?v=-cEn_83zRFw) and [this](https://www.youtube.com/watch?v=mTa2d3OLXhg)). I couldn't resist my temptation to build something with these two and hence learning Rails 8 to productionize an AI enabled web app.
 
-**#GENAI #LLM #NOBUILD #NOPAAS**
+**#GENAI #LLM #RAILS8 #NOBUILD #NOPAAS**

@@ -5,12 +5,9 @@
   </tr>
 </table>
 
-
-
-
 A software engineer who wakes up to optimize DevEx + OpsEx with toolings to deploy & operate softwares that are fast & reliable.
 
-[Platform Engineer](#platform) | [Strategy Consultant & Solution Architect](#consulting) | [Co-Founder of Pickle.io & Full Stack Developer](#startup) | [Curious Coder &  Symmathecist](#coder)
+[Platform Engineer](#platform), [Strategy Consultant & Solution Architect](#consulting), [Co-Founder of Pickle.io & Full Stack Developer](#startup), [Curious Coder &  Symmathecist](#coder)
 
 Currently, solving problems for global clients of [Thoughtworks](https://www.thoughtworks.com).
 

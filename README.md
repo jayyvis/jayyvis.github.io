@@ -1,5 +1,12 @@
-| ![image](https://github.com/user-attachments/assets/587db1ee-ba19-4b12-bf15-8ceab232db47) | JK : Jayakumar <br> 42 : Answer to the Ultimate Question of Life, the Universe, and Everything |
-| -------- | ------- |
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/587db1ee-ba19-4b12-bf15-8ceab232db47" /></td>
+    <td>JK : Jayakumar <br> 42 : Answer to the Ultimate Question of Life, the Universe, and Everything</td>
+  </tr>
+</table>
+
+
+
 
 A software engineer who wakes up to optimize DevEx + OpsEx with toolings to deploy & operate softwares that are fast & reliable.
 

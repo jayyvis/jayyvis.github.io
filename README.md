@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-A software engineer who wakes up to optimize DevEx + OpsEx with platform to deploy & operate softwares that are fast & reliable.
+A software engineer who wakes up to optimize DevEx + OpsEx with a platform to deploy & operate softwares that are fast & reliable.
 
 [Platform Engineer](#platform), [Strategy Consultant & Solution Architect](#consulting), [Co-Founder of Pickle.io & Full Stack Developer](#startup), [Curious Coder &  Symmathecist](#coder)
 

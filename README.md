@@ -44,9 +44,7 @@ I've envisioned, developed full stack, launched and operated multi-tenant SaaS p
 
 I started coding with Logo at the age of 10. I’ve used more than a dozen programming languages. I’ve written code and debugged it on paper (when I didn't own a computer), text editor, IDE. I can code alone or comfortably pair with fellow engineers. These days, with the advent of LLMs, I’m experimenting pairing with AI coding tools to shape up code much faster.
 
-[The answer is 42. What’s the ultimate question?](https://simple.wikipedia.org/wiki/42_(answer)) To me, it’s the software. I view software as an extension of the human mind. It’s a medium that allows me to externalize my ideas, shape it up and bring them to life. I code to enjoy the process of creation and achieve the outcome while doing so. I remain in flow state while coding and troubleshooting a software.
-
-[In the medium of software, I’m a Symmathecist.](https://www.youtube.com/watch?v=pEQj7fy-Htg)
+[The answer is 42. What’s the ultimate question?](https://simple.wikipedia.org/wiki/42_(answer)) To me, it’s the software. I view software as an extension of the human mind. It’s a medium that allows me to externalize my ideas, shape it up and bring them to life. I code to enjoy the process of creation and achieve the outcome while doing so. I remain in flow state while coding and troubleshooting a software. [In the medium of software, I’m a Symmathecist.](https://www.youtube.com/watch?v=pEQj7fy-Htg)
 
 <h3 id="now">What am I learning in 2025 ?</h3>
 

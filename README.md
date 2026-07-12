@@ -45,7 +45,7 @@ I've envisioned, developed full stack, launched and operated multi-tenant SaaS p
 - Cloud services distribution and reselling platform with ERP Accounting integration for a leading ICT distributor in Australia
 - Mobile device geo-location API with OpenGTS integration for a geo services provider in India
 
-<h3 id="startup">Curious Coder & Symmathecist</h3>
+<h3 id="coder">Curious Coder & Symmathecist</h3>
 
 I started coding with Logo at the age of 10. I’ve used more than a dozen programming languages. I’ve written code and debugged it on paper (when I didn't own a computer), in text editors, and in IDEs. I can develop alone or comfortably pair with fellow developers, designers, and client stakeholders. These days, with the advent of LLMs, I’m experimenting with AI coding agents to shape up systems faster.
 

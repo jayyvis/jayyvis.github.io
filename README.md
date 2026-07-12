@@ -7,7 +7,7 @@
 
 **Software developer and operator:** Crafting better experiences for fellow developers (DevX) and operators (OpsX) by building modern software delivery platforms and cloud infrastructure.
 
-[Platform Engineer](#platform), [Tech Strategy Consultant & Solution Architect](#consulting), [Founder of Pickle.io & Full Stack Developer](#startup), [Curious Coder &  Symmathecist](#coder)
+[Platform Engineer](#platform) | [Tech Strategy Consultant & Solution Architect](#consulting) | [Founder of Pickle.io & Full Stack Developer](#startup) | [Curious Coder &  Symmathecist](#coder)
 
 Currently, solving problems for global clients of [Thoughtworks](https://www.thoughtworks.com).
 

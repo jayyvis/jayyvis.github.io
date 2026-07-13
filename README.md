@@ -7,7 +7,7 @@
 
 **Software developer and operator:** Crafting better experiences for fellow developers (DevX) and operators (OpsX) by building modern software delivery platforms and cloud infrastructure.
 
-[Platform Engineer](#platform) | [Tech Strategy Consultant & Solution Architect](#consulting) | [Founder of Pickle.io & Full Stack Developer](#startup) | [Curious Coder &  Symmathecist](#coder)
+[Platform Engineer](#platform) | [Solution Architect](#consulting) | [Founder](#startup) | [Symmathecist](#coder)
 
 Currently, solving problems for global clients of [Thoughtworks](https://www.thoughtworks.com).
 
@@ -22,7 +22,7 @@ I'm a hands on platform engineer:
 - IaC using Terraform, GitOps using ArgoCD, ChatOps using Slack
 - Observability using Grafana, Loki, Prometheus
 
-<h3 id="consulting">Tech Strategy Consultant & Solution Architect</h3>
+<h3 id="consulting">Solution Architect</h3>
 
 I've consulted and created solutions for global clients including wall street banks:
 - Software Delivery Platform Transformations
@@ -34,7 +34,7 @@ I've consulted and created solutions for global clients including wall street ba
 - Migrated Spark workloads from YARN to K8s
 - Automated patching of VMs for managed service provider
 
-<h3 id="startup">Founder of Pickle.io & Full Stack Developer</h3>
+<h3 id="startup">Founder</h3>
 
 I've envisioned, developed full stack, launched and operated multi-tenant SaaS platforms for [Pickle.io](https://pickleio.com)
 - [Picklebots](https://picklebots.com) : Auto healing platform for IT ops incidents
@@ -45,7 +45,7 @@ I've envisioned, developed full stack, launched and operated multi-tenant SaaS p
 - Cloud services distribution and reselling platform with ERP Accounting integration for a leading ICT distributor in Australia
 - Mobile device geo-location API with OpenGTS integration for a geo services provider in India
 
-<h3 id="coder">Curious Coder & Symmathecist</h3>
+<h3 id="coder">Symmathecist</h3>
 
 I started coding with Logo at the age of 10. I’ve used more than a dozen programming languages. I’ve written code and debugged it on paper (when I didn't own a computer), in text editors, and in IDEs. I can develop alone or comfortably pair with fellow developers, designers, and client stakeholders. These days, with the advent of LLMs, I’m experimenting with AI coding agents to shape up systems faster.
 
